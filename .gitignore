@@ -1,0 +1,18 @@
+# Data and large files
+STMap/
+Diffvidmaker/Videos/
+DATALOADER/__pycache__/
+
+# IDEs
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env/
+.venv/
